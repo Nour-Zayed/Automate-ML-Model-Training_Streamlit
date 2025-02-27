@@ -4,7 +4,7 @@
 
 This repository provides a user-friendly no-code machine learning training interface using Streamlit. It allows users to upload datasets, preprocess data, select models, and train them with just a few clicks. The project automates the entire ML workflow, from data handling to model evaluation, making it accessible for both beginners and professionals.
 
-##🔹 Features
+## 🔹 Features
 
 ✔ Upload CSV Files or select from predefined datasets.
 
