@@ -61,3 +61,6 @@ streamlit run app.py
 
 5️⃣ Train the model and get real-time accuracy results!
 
+
+![image](https://github.com/user-attachments/assets/4c72160c-74ca-493e-a2e2-1dc57f6ba7da)
+
